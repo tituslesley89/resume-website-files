@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Featured on Lesley Pandian</title>
+    <link>https://example.com/series/featured/</link>
+    <description>Recent content in Featured on Lesley Pandian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 05 Nov 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://example.com/series/featured/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VR Lego Simulator</title>
+      <link>https://example.com/posts/2017/11/vr-lego-simulator/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017/11/vr-lego-simulator/</guid>
+      <description>During my Virtual Reality Course (Master&amp;rsquo;s) we had to come up with a system to construct and de-construct Lego. The project was done as a team of 3 developers and 2 artists.
+The system was developed using FIVE-UDE version of Unity (A custom made Unity Version for developing application for the UTDallas Motion Capture Lab). We had access to a Motion capture Lab which used Vicon Cameras to track the motion of the users Oculus Rift (DK1) and 2 Wii Controllers.</description>
+    </item>
+    
+    <item>
+      <title>VR Augemented Desktop</title>
+      <link>https://example.com/posts/2017/09/vr-augemented-desktop/</link>
+      <pubDate>Thu, 28 Sep 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2017/09/vr-augemented-desktop/</guid>
+      <description>My thesis work was to study the trade-off between usability and fidelity in a modern VR set-up, in the domain of user training.
+For the highest possible fidelity (at the time) we used the latest Oculus Rift (DK2) and a Creative DepthSense camera (depth camera) for user interaction.
+Challenges:   Finger-tracking : This took a major part of the development time, getting the perfect position and filtering the tracking information for reliable and consistent tracking was a challenge.</description>
+    </item>
+    
+    <item>
+      <title>Music-Logic</title>
+      <link>https://example.com/posts/2015/12/music-logic/</link>
+      <pubDate>Fri, 18 Dec 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/posts/2015/12/music-logic/</guid>
+      <description>During my Creative Automata class (Master&amp;rsquo;s) we had learned about Digital signals and Automata theory. At the end of the course we had to create something that represented all the things we had learned over the course. I have gotten these from pictures and files stored around my PC, I don&amp;rsquo;t have the original project unfortunately
+Introduction: Playing music on any instruments and creating a song requires a sequence of instructions to be executed at certain times.</description>
+    </item>
+    
+  </channel>
+</rss>

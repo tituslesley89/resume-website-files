@@ -1,0 +1,11 @@
+.table-align-top {
+    vertical-align: top !important;
+}
+
+.logo-text-color {
+    color: white;
+}
+
+.logo-text-color.active {
+    color: #E54C7B;
+}

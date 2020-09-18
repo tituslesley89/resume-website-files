@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Experience on Lesley Pandian</title>
+    <link>https://example.com/experience/</link>
+    <description>Recent content in Experience on Lesley Pandian</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Tue, 29 Oct 2019 13:49:23 +0600</lastBuildDate>
+    
+	<atom:link href="https://example.com/experience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>1-Amazon</title>
+      <link>https://example.com/experience/amazon/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://example.com/experience/amazon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>2-Reuters</title>
+      <link>https://example.com/experience/reuters/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://example.com/experience/reuters/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3-Securonix</title>
+      <link>https://example.com/experience/securonix/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://example.com/experience/securonix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3-TCS</title>
+      <link>https://example.com/experience/tcs/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://example.com/experience/tcs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>4-USM</title>
+      <link>https://example.com/experience/usm/</link>
+      <pubDate>Tue, 29 Oct 2019 13:49:23 +0600</pubDate>
+      
+      <guid>https://example.com/experience/usm/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
